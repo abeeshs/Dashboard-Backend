@@ -19,7 +19,8 @@ mongoose
 
 app.use(
    cors({
-      origin: "http://localhost:3000",
+      // origin: "http://localhost:3000",
+      origin:"https://dashboard-frontend-m98k.onrender.com"
    })
 );
 app.use("/", userRouter);
