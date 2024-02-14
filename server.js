@@ -21,7 +21,7 @@ app.use(
    cors({
       // origin: "http://localhost:3000",
       origin:"https://dashboard-frontend-m98k.onrender.com",
-      origin:"https://dashboard-23gumg2lm-abeeshs-projects.vercel.app"
+      origin:"https://dashboard-zeta-six-88.vercel.app"
       
    })
 );
